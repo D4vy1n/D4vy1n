@@ -1,4 +1,4 @@
-<div align="center">
+<div align="to right">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=400&color=10FF00&background=0D1117&center=false&vCenter=true&width=600&lines=%5B~%5D+Initiating+secure+connection...;%5B~%5D+Bypassing+mainframe...;%5B~%5D+Root+access+granted.;>+D4vy1n+compromised+your+system.;>+READ+ME!!." alt="Terminal Typing" />
   </a>
